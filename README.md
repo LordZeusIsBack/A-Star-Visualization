@@ -52,7 +52,15 @@ This project is a visualization of the A* pathfinding algorithm using Pygame. Th
 
 ## Screenshots
 
-Include screenshots of your visualization here.
+![Start Screen](screenshots/start-screen.png)
+*Description of the start screen*
+
+![Pathfinding in Progress](screenshots/pathfinding-in-progress.png)
+*Description of pathfinding in progress*
+
+![Path Found](screenshots/path-found.png)
+*Description of the path found*
+
 
 ## Contributing
 
