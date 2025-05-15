@@ -54,13 +54,13 @@ This project is a visualization of the A\* pathfinding algorithm using Pygame. T
 
 ## Screenshots
 
-![Start Screen](screenshots/start-screen.png)<br>
+![Start Screen](screenshots/start-screen.png)
 _This is the basic start screen_
 
-![Pathfinding in Progress](screenshots/pathfinding-in-progress.png)<br>
+![Pathfinding in Progress](screenshots/pathfinding-in-progress.png)
 _Here the algorithm is finding the path to the destination_
 
-![Path Found](screenshots/path-found.png)<br>
+![Path Found](screenshots/path-found.png)
 _The shortest path was found by the algorithm and constructed on the pygame window_
 
 ## Contributing
